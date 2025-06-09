@@ -1,0 +1,5 @@
+2025-06-09 15:12:47,090 - INFO - Valid user entered: Name=John Doe, Email=johndoe@example.com, Age=25
+2025-06-09 15:12:47,093 - INFO - Saved user data: Name=John Doe, Email=johndoe@example.com, Age=25, Category=Adult
+2025-06-09 15:13:17,484 - INFO - Valid user entered: Name=Jane smith, Email=janesmith@example.com, Age=17
+2025-06-09 15:13:17,486 - INFO - Saved user data: Name=Jane smith, Email=janesmith@example.com, Age=17, Category=Underaged
+2025-06-09 15:13:25,943 - INFO - Program exited by user.

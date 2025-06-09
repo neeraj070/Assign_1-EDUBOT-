@@ -1,0 +1,2 @@
+Name: John Doe, Email: johndoe@example.com, Age: 25, Category: Adult
+Name: Jane smith, Email: janesmith@example.com, Age: 17, Category: Underaged

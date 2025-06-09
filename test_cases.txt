@@ -1,0 +1,6 @@
+Test-Case   Name            Email               Age     Result
+    1       John        john@example.com        25      Valid
+    2       Anjali      anjali@example.org      17      Valid
+    3       Robert      robert@@example.com     30      Invalid(Email)
+    4       123Raj      raj@gmail.com           45      Invalid(name)
+    5       Sita        sita@mail.com           -5      Invalid(negative age)
